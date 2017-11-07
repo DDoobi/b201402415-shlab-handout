@@ -4,7 +4,7 @@
  * <201402415 , 장진우>
  */
 
-Boradori DDobi NaNa BBo~
+
 
 #include <stdio.h>
 #include <stdlib.h>
